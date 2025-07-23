@@ -11,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/dev-suryakant-tangadi-05a052294/" target="_blank">
+  <a href="https://in.linkedin.com/in/dev-tangadi-05a052294" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -43,3 +43,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">🚀 Featured Project:</h3>
+<p align="left">
+  🎬 <strong>CineMatch – Movie Recommendation System</strong><br>
+  A clean and interactive movie recommendation app built with Streamlit.<br>
+  👉 <a href="https://cinematch007.streamlit.app/" target="_blank">Try CineMatch Now</a>
+</p>
+
